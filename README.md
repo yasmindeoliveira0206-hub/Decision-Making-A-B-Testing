@@ -1,4 +1,4 @@
-# TripleTen Sprint 9: Data-Driven Decision Making
+# Data-Driven Decision Making
 
 This repository contains the final project for the ninth sprint of the TripleTen Data Analytics program. The focus of this project was **Data-Driven Decision Making**, using hypothesis prioritization techniques and rigorous **A/B Test** analysis for a large online retail company.
 
@@ -49,7 +49,7 @@ This project required a comprehensive analytical approach to ensure the reliabil
 
 
 _____________________________________________________
-# TripleTen Sprint 9: Tomada de Decisões Baseada em Dados 🧪📊
+#Tomada de Decisões Baseada em Dados 
 
 Este repositório contém o projeto final da nona sprint do curso de Análise de Dados da TripleTen. O foco deste projeto foi a **Tomada de Decisões Baseada em Dados**, utilizando técnicas de priorização de hipóteses e análise rigorosa de **Testes A/B** para uma grande loja online.
 
